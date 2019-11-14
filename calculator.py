@@ -34,4 +34,5 @@ while True :
     
 input ('press a key to exit')
 
+print ("finish")
 
